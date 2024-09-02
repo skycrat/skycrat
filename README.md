@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katia</h1>
-<h3 align="center">An aspirant Data Scientist and a passionate AI/ML developer from Dominican Republic.</h3>
+<h3 align="center">An aspirant Data Scientist and a passionate AI/ML developer from Dominican Republic</h3>
 
 
 <h3 align="center">Connect with me:</h3>
